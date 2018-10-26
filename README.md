@@ -1,2 +1,3 @@
-# Parallel-Programming
-Share and Conclude the implementation of the typical parallel programming skills 
+# Welcome!
+
+In this repository, we provide several code implementations of parallel programming skills.
